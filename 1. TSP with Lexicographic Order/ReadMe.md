@@ -18,6 +18,6 @@ Misalkan P [1..n] adalah permutasi 1 sampai n. Kita dapat membangun permutasi be
 
 
 Sumber :
-https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering
-https://www.quora.com/What-is-lexicographic-order
-https://www.youtube.com/watch?v=9Xy-LMAfglE
+* https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering
+* https://www.quora.com/What-is-lexicographic-order
+* https://www.youtube.com/watch?v=9Xy-LMAfglE
